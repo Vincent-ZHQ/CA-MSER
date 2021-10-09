@@ -4,7 +4,7 @@ Code for Speech Emotion Recognition with Co-Attention based Multi-level Acoustic
 
 
 ## 1. File system
-- - feature_extraction
+\- feature_extraction
   -- pretrained_model
   -- related python files
 - models
