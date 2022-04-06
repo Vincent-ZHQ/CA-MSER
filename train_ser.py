@@ -494,8 +494,8 @@ def train(dataset, params, save_label='default'):
             val_ua = val_result[2]
 
             # Update best model based on validation UA
-            if val_loss < (best_val_loss - 1e-6):
-            # if val_wa + val_ua > best_val_acc:
+            # if val_loss < (best_val_loss - 1e-6):
+            if val_wa + val_ua > best_val_acc:
                 
                 print("True")
                 best_val_ua = val_ua
