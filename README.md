@@ -36,7 +36,7 @@ Code for [Speech Emotion Recognition with Co-Attention based Multi-level Acousti
  4. Run. python crossval_SER.py
 
 ### citation
-If you find EMANet useful in your research, please consider citing:
+If you find CA-MSER useful in your research, please consider citing:
 
     @article{zou2022speech,
       title={Speech Emotion Recognition with Co-Attention based Multi-level Acoustic Information},
