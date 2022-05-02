@@ -30,8 +30,11 @@ Code for [Speech Emotion Recognition with Co-Attention based Multi-level Acousti
 ## 3. How to use
  1. Downlioad pretrained Wav2vec2.0 model from https://huggingface.co/facebook/wav2vec2-base-960h
  2. Downlioad the processed data. (It is a little big, later we will upload a smaller one for testing.)
- 3. Install related libries. pip install requirements.txt
- 4. Run. python crossval_SER.py
+ [Google Drive](https://drive.google.com/file/d/1B0RU9jANAKbUfPG4q8iaq67X6x8yOwu9/view?usp=sharing)
+ [Baidu YunPan](https://pan.baidu.com/s/1MmmTrJ6nwQvlUiEWlDQhSw?pwd=q9gd)
+
+ 4. Install related libries. pip install requirements.txt
+ 5. Run. python crossval_SER.py
 
 ### citation
 If you use our code or find our CA-MSER useful in your research, please consider citing:
