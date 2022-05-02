@@ -4,16 +4,14 @@ Code for [Speech Emotion Recognition with Co-Attention based Multi-level Acousti
 
 
 ## 1. File system
-\- feature_extraction
-<br> &ensp; -- pretrained_model
-<br> &ensp; -- related python files
-<br>
 \- models
 <br> &ensp;  -- transformers_encoder
 <br> &ensp;  -- related python files
 <br>
 \- results
 <br> &ensp;  -- t-SNE
+<br>
+\- extracted_features.pkl
 <br>
 \- crossval_SER.py
 <br>
@@ -36,7 +34,7 @@ Code for [Speech Emotion Recognition with Co-Attention based Multi-level Acousti
  4. Run. python crossval_SER.py
 
 ### citation
-If you find CA-MSER useful in your research, please consider citing:
+If you use our code or find our CA-MSER useful in your research, please consider citing:
 
     @article{zou2022speech,
       title={Speech Emotion Recognition with Co-Attention based Multi-level Acoustic Information},
