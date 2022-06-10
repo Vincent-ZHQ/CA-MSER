@@ -39,11 +39,13 @@ Code for [Speech Emotion Recognition with Co-Attention based Multi-level Acousti
 ### citation
 If you use our code or find our CA-MSER useful in your research, please consider citing:
 
-    @article{zou2022speech,
-      title={Speech Emotion Recognition with Co-Attention based Multi-level Acoustic Information},
-      author={Zou, Heqing and Si, Yuke and Chen, Chen and Rajan, Deepu and Chng, Eng Siong},
-      journal={arXiv preprint arXiv:2203.15326},
-      year={2022}
+    @inproceedings{zou2022speech,
+    title={Speech Emotion Recognition with Co-Attention Based Multi-Level Acoustic Information},
+    author={Zou, Heqing and Si, Yuke and Chen, Chen and Rajan, Deepu and Chng, Eng Siong},
+    booktitle={ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+    pages={7367--7371},
+    year={2022},
+    organization={IEEE}
     }
 
 
