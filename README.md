@@ -34,7 +34,7 @@ If you think our paper and code are useful for your research work. Please give u
 ## 3. How to use
  1. Downlioad pretrained Wav2vec2.0 model from https://huggingface.co/facebook/wav2vec2-base-960h
  2. Downlioad the processed data. (It is a little big, later we will delete it from Google Drive)
- [Google Drive](https://drive.google.com/file/d/1B0RU9jANAKbUfPG4q8iaq67X6x8yOwu9/view?usp=sharing); 
+ [Google Drive](https://drive.google.com/file/d/1Nnxh3y7hkkmsh3Y5Dg4q1qerRZWcePH8/view?usp=sharing); 
  [Baidu YunPan](https://pan.baidu.com/s/1MmmTrJ6nwQvlUiEWlDQhSw?pwd=q9gd)
 
  4. Install related libries. pip install requirements.txt
